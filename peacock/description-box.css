@@ -1,0 +1,66 @@
+.description-box{
+    padding-left: 50px;
+}
+
+.Contents{
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.hide{
+    width: 30px;
+    height: 15px;
+    /* border: 1px solid black; */
+    margin-left: 5px;
+    background-color: rgb(227, 224, 224);
+    font-size: 13px;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+
+
+.anchor1{
+    font-weight: bold;
+    font-family: sans-serif;
+    color: black;
+    text-decoration: none;
+}
+.anchor1:hover{
+    text-decoration: underline;
+}
+.anchor-2,
+.anchor3,
+.anchor4,
+.anchor5,
+.anchor6,
+.anchor7{
+    color: blue;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+.anchor-2:visited,
+.anchor3:visited,
+.anchor4:visited,
+.anchor5:visited,
+.anchor6:visited,
+.anchor7:link{
+    color: blue;
+
+}
+
+.anchor-2:hover,
+.anchor3:hover,
+.anchor4:hover,
+.anchor5:hover,
+.anchor6:hover,
+.anchor7:hover{
+    text-decoration: underline;
+}
+
+.gt{
+    color: black;
+}
+
+

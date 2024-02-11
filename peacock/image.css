@@ -1,0 +1,124 @@
+.border1{
+    border: 1px solid rgb(146, 144, 144);
+    width: 242px;
+    height: 180px;
+    background-color: rgb(219, 216, 216);
+}
+
+.image1{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Peacock_Plumage.jpg/330px-Peacock_Plumage.jpg); 
+    width: 230px;
+    height:130px;
+    /* border: 1px solid black; */
+    background-size: contain;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.image1-content{
+    font-size: 15px;
+    width: 210px;
+    height: 20px;
+    margin: auto;
+    /* border: 1px solid black; */
+}
+
+.border2{
+    border: 1px solid rgb(145, 143, 143);
+    width: 242px;
+    height: 180px;
+    background-color: rgb(219, 216, 216);
+    margin-top: 20px;
+}
+
+.image2{
+        background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/The_Magnificent_Peafowl.jpg/330px-The_Magnificent_Peafowl.jpg); 
+        width: 230px;
+        height:130px;
+        /* border: 1px solid black; */
+        background-size: contain;
+        margin-top: 10px;
+        margin-left: 5px;
+}
+
+.image2-content{
+    font-size: 15px;
+    width: 220px;
+    height: 20px;
+    margin: auto;
+}
+
+.border3{
+    border: 1px solid rgb(145, 143, 143);
+    width: 250px;
+    height: 318px;
+    background-color: rgb(219, 216, 216);
+    margin-top: 20px;
+
+}
+
+.image3{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Female_Pefowl_001.jpg/330px-Female_Pefowl_001.jpg); 
+        width: 240px;
+        height:320px;
+        /* border: 1px solid black; */
+        background-size: contain;
+        margin-top: 10px;
+        margin-left: 5px;
+        background-size: contain;
+        background-repeat: no-repeat;
+}
+
+.border4{
+    border: 1px solid rgb(145, 143, 143);
+    width: 225px;
+    height: 354px;
+    background-color: rgb(219, 216, 216);
+    margin-top: 20px;
+}
+
+.image4{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Peacock_by_Nihal_jabin.jpg/330px-Peacock_by_Nihal_jabin.jpg); 
+    width: 240px;
+    height:320px;
+    /* border: 1px solid black; */
+    background-size: contain;
+    margin-top: 10px;
+    margin-left: 5px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image4-content{
+    font-size: 15px;
+    width: 210px;
+    height: 20px;
+    margin: 3px;
+}
+
+.border5{
+    border: 1px solid rgb(145, 143, 143);
+    width: 248px;
+    height: 330px;
+    background-color: rgb(219, 216, 216);
+    margin-top: 20px;
+}
+
+.image5{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eggs_of_Peafowl_at_Aravath_Kasaragod.jpg/330px-Eggs_of_Peafowl_at_Aravath_Kasaragod.jpg); 
+    width: 240px;
+    height:315px;
+    /* border: 1px solid black; */
+    background-size: contain;
+    margin-top: 10px;
+    margin-left: 5px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}   
+.image5-content{
+    font-size: 15px;
+    width: 210px;
+    height: 18px;
+    margin: 3px;
+    margin-top:-19px ;
+}
